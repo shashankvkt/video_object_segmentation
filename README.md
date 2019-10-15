@@ -1,5 +1,5 @@
-### Video Object Segmentation - YouTube VOS dataset (Ning et al.,arXiv preprint arXiv:1809.03327)
-This is the implementation of the paper "Youtube-VOS: Sequence-to-sequence video object segmentation" by Ning et al, ECCV 2018.  
+### Video Object Segmentation - YouTube VOS dataset (Xu et al.,arXiv preprint arXiv:1809.03327)
+This is the implementation of the paper "Youtube-VOS: Sequence-to-sequence video object segmentation" by Xu et al, ECCV 2018.  
 
 ### Getting the Data  
 Download the data by registering on [CodeLab challenge](https://competitions.codalab.org/competitions/19544) 
