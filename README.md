@@ -17,6 +17,8 @@ Once the model is trained, use it to generate the segmentation masks for each in
   
 ### Qualitative Results  
 ![title](imgs/result1.png)  
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 ![title](imgs/result2.png)  
 
 Here the 1st row is the RGB frames, second row corresponds to the ground truth segmentation mask on the objects that our network is exected to predict in the consecutive frames and the last row corresponds to the prediction of my trained model.
