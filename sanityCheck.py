@@ -39,7 +39,7 @@ for i in range(len(validFolders)):
 			for k in range(len(frames)):
 				print(rgbpth + frames[k] + '.png',i)
 				rgbImg = (Image.open(rgbpth + frames[k] + '.png'))
-				#exit(0)
+				exit()
 
 
 
