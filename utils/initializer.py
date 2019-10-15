@@ -6,7 +6,7 @@ from torch.autograd import Variable
 from torch.nn import functional as F
 
 '''
-Consists of the Encoder and Decoder module 
+Consists of the Initializer, Encoder and Decoder module 
 
 '''
 
